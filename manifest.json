@@ -3,7 +3,7 @@
   "name": "Digital sobriety",
   "version": "1.0.0",
   "description": "ChatGPT's analyse",
-  "permissions": ["scripting", "cookies", "storage","activeTab","webRequest", "webRequestBlocking", "tabs",  "debugger"],
+  "permissions": ["scripting", "cookies", "storage","activeTab","webRequest", "tabs",  "debugger"],
   "host_permissions": ["<all_urls>"], 
   "action":{},
   "icons": {
