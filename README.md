@@ -16,4 +16,5 @@ A extention for visualize the data of chatgpt
 
 # forks
 
-- [jht9629-nyu/ChatgptExtention](https://github.com/jht9629-nyu/ChatgptExtention.git)
+- [covid19-impact/ChatgptExtention](https://github.com/covid19-impact/ChatgptExtention)
+- 
